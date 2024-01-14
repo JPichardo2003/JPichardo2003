@@ -15,7 +15,7 @@
   
  😃 Estudiante de Ingeniera en Sistemas y Ciencias Computacionales.
  
- 🔭 Actualmente estoy aprendiendo BlazorServer & BlazorWebAssembly.
+ 🔭 Habilidades con BlazorServer & BlazorWebAssembly.
  
  </div>
  
