@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,c,cpp,cs,github,figma,html,css,bootstrap,java,sqlite,discord,postman,visualstudio,vscode,wasm,azure&perline=8" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,dotnet,c,cpp,cs,github,figma,html,css,bootstrap,java,sqlite,discord,postman,visualstudio,vscode,wasm,azure&perline=8" /><br>
 </div>
 
 <br/>
