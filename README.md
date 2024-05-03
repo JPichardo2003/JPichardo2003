@@ -16,6 +16,8 @@
  😃 Estudiante de Ingeniera en Sistemas y Ciencias Computacionales.
  
  🔭 Habilidades con BlazorServer & BlazorWebAssembly.
+
+ 👨‍💻 Adquiriendo habilidades en Kotlin/JetPackCompose.
  
  </div>
  
@@ -33,12 +35,12 @@
 
 <br/>
 <hr/>
-
-<div align="center">
+<!--<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> ->
+
   
   <br/><br/><br/>
 </div>
