@@ -15,9 +15,9 @@
   
  😃 Estudiante de Ingeniera en Sistemas y Ciencias Computacionales.
  
- 🔭 Habilidades con BlazorServer & BlazorWebAssembly.
+ 🔭 Habilidades con Blazor Server & WebAssembly, Kotlin JetPackCompose.
 
- 👨‍💻 Adquiriendo habilidades en Kotlin/JetPackCompose.
+ <!-- 👨‍💻 Adquiriendo habilidades en Kotlin/JetPackCompose. -->
  
  </div>
  
