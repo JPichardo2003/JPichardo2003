@@ -13,7 +13,7 @@
 
 <div align="center">
   
- 😃 Estudiante de Ingeniera en Sistemas y Ciencias Computacionales.
+ 😃 Ingeniero en Sistemas y Ciencias Computacionales.
  
  🔭 Habilidades con Blazor Server & WebAssembly, Kotlin JetPackCompose.
 
